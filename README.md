@@ -10,11 +10,13 @@ Listado de series para recomendar:
 - Luz de Luna
 
 - The Durrells
+<<<<<<< HEAD
+=======
 - Linterna verde
+>>>>>>> c69e64992eeea9ad3f2bcb208f28ba4bb14975d0
 - Fargo
 - Los soprano
-
 - Aztraceneca
-
 - The Godfather
 - Superman
+- Fleabag
