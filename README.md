@@ -1,4 +1,4 @@
-# GitClass
+# Series
 
 Listado de series para recomendar:
 
