@@ -12,7 +12,7 @@ Listado de series para recomendar:
 - The Durrells
 - Fargo
 - Los soprano
-- Aztraceneca
+- Astrazeneca
 - Good omens
 - The Godfather
 - Superman
