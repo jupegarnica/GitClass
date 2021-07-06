@@ -10,6 +10,7 @@ Listado de series para recomendar:
 - Game of throns
 - Luz de Luna
 - The Durrells
+- Linterna verde
 - Fargo
 - Los soprano
 - Astrazeneca
@@ -17,3 +18,4 @@ Listado de series para recomendar:
 - The Godfather
 - Superman
 - Fleabag
+- Prison break
