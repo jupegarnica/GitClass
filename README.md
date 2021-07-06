@@ -10,5 +10,5 @@ Listado de series para recomendar:
 - Luz de Luna
 - The Durrells
 
-- another
-- azsdasd
+- Another
+- Aztraceneca
