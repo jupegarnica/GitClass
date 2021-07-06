@@ -8,7 +8,7 @@ Listado de series para recomendar:
 - Game of throns
 - Luz de Luna
 - The Durrells
-
+- Linterna verde
 - Fargo
 - Los soprano
 
