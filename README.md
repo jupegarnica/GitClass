@@ -3,6 +3,8 @@
 Listado de series para recomendar:
 
 - Line of Duty
+- Dexter
+- Game of thrones
 - Kominsky Method
 - El que primero dispara
 - Game of throns
@@ -11,7 +13,9 @@ Listado de series para recomendar:
 - Linterna verde
 - Fargo
 - Los soprano
-- Aztraceneca
+- Astrazeneca
+- Good omens
 - The Godfather
 - Superman
 - Fleabag
+- Prison break
